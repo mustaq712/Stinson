@@ -1,0 +1,94 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.top{
+    background-color: #484848;
+    position: relative;
+    padding-top: 100px;
+}
+.hg{
+    font-size: 34px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Dancing Script',cursive;
+    width: 30%;
+    margin:50px  auto 0 auto;
+}
+p{
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.mid{
+    
+}
+.bottom{
+    background-color: #49464d;
+    padding: 15px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#rile{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+a{
+    color:#11999E;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.skl{
+  margin-top: 0;
+  color:  #49464d;
+}
+.skills{
+    background-color: beige;
+
+    
+}
+.suit{
+    width: 320px;
+    height: 400px;
+    mix-blend-mode: lighten;
+}
+.book{
+    float: left;
+    position: absolute;
+    left: 400px;
+}
+.btn{
+    font-size: 18px;
+}
+.buy{
+    font-size: 18px;
+}
+.but{
+    font-size: 18px;
+}
+a:hover{
+    color: blue;
+}
+.footer-link{
+    padding: 8px;
+}
+.me{
+    color: #49464d;
+    padding-top: 8px;
+}
+.challenge{
+    padding :25px;
+}
+.chk{
+   background-color: #11999E;
+   color: #49464d;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   border: none;
+   padding: 12px;
+   border: 2px solid white;
+   transition-duration: 0.4s;
+   border-radius: 2px;
+
+}
+
